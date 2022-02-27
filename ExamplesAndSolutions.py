@@ -1,5 +1,5 @@
 # This coding language is Python!
-# How can we represent our to-dos on a computer?
+# How can we represent our todos on a computer?
 
 todos = ["brush teeth", "make bed", "grab a coffee"]
 
